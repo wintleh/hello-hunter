@@ -5,7 +5,7 @@ CodePath Android Pre-work Project:
   A simple app that allows the user to update text view with their own input.
 
 ### App Walk-though
-<img src="https://i.imgur.com/jU0pAFZ.gif" width=200><br>
+<img src="https://i.imgur.com/MGBPXfi.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
