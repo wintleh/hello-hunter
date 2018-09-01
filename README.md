@@ -5,6 +5,7 @@ CodePath Android Pre-work Project:
   A simple app that allows the user to update text view with their own input.
 
 ### App Walk-though
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Sbgbeww"><a href="//imgur.com/Sbgbeww">HelloHunter</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <img src="https://imgur.com/a/Sbgbeww.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
