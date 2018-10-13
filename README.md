@@ -4,7 +4,7 @@
 CodePath Android Pre-work Project:
   A simple app that allows the user to update text view with their own input.
 
-### App Walk-though
+### App Walk-through
 <img src="https://i.imgur.com/MGBPXfi.gif" width=200><br>
 
 ### Required User Stories
